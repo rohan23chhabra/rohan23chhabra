@@ -29,4 +29,8 @@
 * Kafka
 * Spring
 
+#### _Github's fancy statistics_
 
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan23chhabra&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan23chhabra&langs_count=8&hide=python)](https://github.com/anuraghazra/github-readme-stats)
